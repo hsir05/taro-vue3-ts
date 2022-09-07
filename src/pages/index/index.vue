@@ -1,7 +1,7 @@
 <template>
   <view class="index">
     <Counter />
-    1231322423423
+    234
   </view>
 </template>
 
