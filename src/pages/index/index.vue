@@ -1,6 +1,7 @@
 <template>
   <view class="index">
     <Counter />
+    12313
   </view>
 </template>
 
