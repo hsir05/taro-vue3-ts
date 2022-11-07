@@ -1,7 +1,7 @@
 <template>
   <view class="index">
     <Counter />
-    12313
+    测试数据
   </view>
 </template>
 
